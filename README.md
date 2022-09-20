@@ -1,4 +1,7 @@
 <h1> <img src="https://media2.giphy.com/media/uL5P9fPUHmqwphj6Qy/200w.webp?cid=ecf05e47m34dlu4b9l7772cs2hweqc6fh222jn85ynixad7d&rid=200w.webp&ct=s" alt="hi gif" width="40px"> My name is Enes . </h1>
+<p> Welcome to my Gifthub profile!</p>
+<br>
+About me:
 <ul>
   <li> <p>I'm a Salesforce Developer. </p> </li>
 </ul>
