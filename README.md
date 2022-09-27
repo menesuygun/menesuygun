@@ -7,7 +7,7 @@ About me:
    <li>🇨🇦 I live in Oshawa, Ontario </li>
    <li> 
     🌎 Click
-   <a href="https://menesuygun.github.io/Country_Picker/" target="_blank">  here  </a>
+   <a href="https://menesuygun.github.io/Country_Picker/" target="_blank" >  here  </a>
    to go to my latest project!
    </li>
 </ul>
