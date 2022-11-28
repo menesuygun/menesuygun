@@ -4,7 +4,7 @@ About me:
 <ul>
   <li>👨🏻‍ My name is Enes. </li>
   <li>💻 I'm a Web & Salesforce Developer </li>
-   <li>🇨🇦 I live in Oshawa, Ontario </li>
+   <li>🇨🇦 I live in Toronto, Ontario </li>
    <li> 
     🌎 Click
    <a href="https://menesuygun.github.io/Country_Picker/" target="_blank" >  here  </a>
