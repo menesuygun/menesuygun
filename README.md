@@ -3,7 +3,7 @@
 About me:
 <ul>
   <li>👨🏻‍ My name is Enes. </li>
-  <li>💻 I'm a Web & Salesforce Developer </li>
+  <li>💻 I'm a Salesforce Developer </li>
    <li>🇨🇦 I live in Toronto, Ontario </li>
    <li> 
     🌎 Click
