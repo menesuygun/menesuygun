@@ -5,11 +5,6 @@ About me:
   <li>👨🏻‍ My name is Enes. </li>
   <li>💻 I'm a Salesforce Developer </li>
    <li>🇨🇦 I live in Toronto, Ontario </li>
-   <li> 
-    🌎 Click
-   <a href="https://menesuygun.github.io/Country_Picker/" target="_blank" >  here  </a>
-   to go to my latest project!
-   </li>
 </ul>
 <img src="https://media1.giphy.com/media/DivlOk2S7HzyOTc7my/giphy.gif?cid=ecf05e47owhket001fz6sul7dxhubflx1xexuve1k4f95ypx&rid=giphy.gif&ct=g" alt="" >
 
